@@ -5,5 +5,5 @@
 body{background-color: #012043}
 #bolinha{position: absolute; border-radius: 100%; width: 40px; height: 40px; background-color: blue; margin-left: 30px; margin-top: 10px;}
 .displayNone{display: none;}
-img{width: 100%; margin-top: 50px;}
+img{width: 100%; margin-top: 50px; display: none;}
 h2{margin: 0;}

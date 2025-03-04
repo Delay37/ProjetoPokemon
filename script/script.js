@@ -11,6 +11,7 @@ async function BuscarPokemon() {
     // adicionar imagem na div pokeImagem
     console.log(respostaApi);
     document.getElementById("pokeImagem").src = respostaApi.sprites.front_default;
+    document.getElementById("pokeImagem").style.display = "block"
     // adicionar nome em pokeNome 
     document.getElementById("pokeNome").innerHTML = ("#"+numPokemonjs +" "+ respostaApi.species.name)
     // mudar a classe de div de tipo do pokemon 
