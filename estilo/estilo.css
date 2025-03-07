@@ -5,6 +5,9 @@
 body{background-color: #012043}
 #bolinha{display: block; border-radius: 100%; width: 40px; height: 40px; background-color: blue; margin: 10px 10px 20px 30px;}
 .displayNone{display: none !important;}
-img{width: 80%; background-color: lightgray; border: white solid 5px; border-radius: 10px 10px 10px 60px; margin-top: 50px; display: none; margin: auto; margin-bottom: 30px;}
+#pokeImagem{width: 80%; background-color: lightgray; border: white solid 5px; border-radius: 10px 10px 10px 60px; margin-top: 50px; display: none; margin: auto; margin-bottom: 30px;}
 h2{margin: 0;}
 #tiposPokemon{margin: 50px;}
+header{padding: 0 ; background-color: white;}
+#logo{width: 30%;}
+header div{margin:auto; text-align: center;}
